@@ -15,12 +15,12 @@ I kinda hate the bare PCB thing, but understand why so many kits use it. So I de
   <li> I know there is some funny wiring and maybe you think the speaker is on the wrong side but the USB and power junk is on the other end. It would be cool to add a speaker connection to the other end of the board. But also gerbers, cant edit easy, blah. </li>
 </ol>
 <br>
-<img src="IMG_0056.jpeg" width="100%">
+<img src="images/IMG_0056.jpeg" width="100%">
 <table style="border:0px;">
 <tr>
-  <td><img src="IMG_0057.jpeg" width="100%"></td>
-<td><img src="IMG_0058.jpeg" width="100%"></td>
-<td><img src="IMG_0059.jpeg" width="100%"></td>
+  <td><img src="images/IMG_0057.jpeg" width="100%"></td>
+<td><img src="images/IMG_0058.jpeg" width="100%"></td>
+<td><img src="images/IMG_0059.jpeg" width="100%"></td>
   </tr>
   </table>
 <br>
