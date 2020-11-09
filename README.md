@@ -1,4 +1,4 @@
-# PocketPiano-Case
+# Critter&Guitari - Arduino Piano Case
 
 For ages I wanted a Critter & Guitari Pocket Piano, but the cool thing is they are now out of stock. BOOO!<br>
 So during the COVID-19 lockdown in 2020 I started building my own one. The Critter & Guitari code I know is not their final version or is the final version for their kit but differs from their production model, THATS COOL THO! We will make this and see what happens....<br>
