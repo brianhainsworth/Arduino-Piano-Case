@@ -27,6 +27,9 @@ I kinda hate the bare PCB thing, but understand why so many kits use it. So I de
 <p>I got two of the top cases built as prototypes out of 2mm aluminium. You can probably go a bit thinner but I wanted some *HEFT*. The machine shop mentioned there was an error in the speaker grill that did some funny things. I havent fixed this in the dxf file. I have also updated the illustrator file (I import this to Fusion360 as I suck at it) to balance things a bit as I didnt take the speaker into consideration very well haha.</p>
 <br>
 <p>Once I had sorted out the details with the top case I was going to build the bottom out of laser cut ply, to match the CG original, but this hasnt happened yet or might just be a early draft. </p>
+<br>
+<p>If you end up using these files to build a case, I would love to see your work: brian.hainsworth@gmail.com</p>
+
 
 <h2>RESOURCES</H2>
 <ul>
